@@ -10,3 +10,4 @@ This Github page contains a series of tutorials covering topics such as the inst
 
 
 # DOCUMENTATION
+[Installation](https://github.com/KyleWebster46/RedCloud-Project/wiki/Installation-Documentation)
