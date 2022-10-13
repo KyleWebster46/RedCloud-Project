@@ -12,3 +12,5 @@ This Github page contains a series of tutorials covering topics such as the inst
 
 # DOCUMENTATION
 [Installation](https://github.com/KyleWebster46/RedCloud-Project/wiki/Installation-Documentation)
+
+[Fixing Known Issues](https://github.com/KyleWebster46/RedCloud-Project/wiki/Fixing-known-issues)
